@@ -24,7 +24,7 @@ EXT_NAME="libcec"
 OSD_NAME="Steam"
 LOG_FILE="/tmp/${EXT_NAME}-ext.log"
 declare -A PACKAGES=(
-  [community/libcec]=6.0.2-3
+  [community/libcec]=6.0.2-4
   [community/p8-platform]=2.1.0.1-4
 )
 steamos_repo="https://steamdeck-packages.steamos.cloud/archlinux-mirror"
